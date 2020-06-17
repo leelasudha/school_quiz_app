@@ -15,7 +15,7 @@ cupshelpers==1.0
 cymem==2.0.3
 defer==1.0.6
 distro-info===0.18ubuntu0.18.04.1
-Django==3.0.6
+Django==3.0.7
 djangorestframework==3.11.0
 docx==0.2.4
 docx2txt==0.8
